@@ -12,18 +12,6 @@
   
   ##
   
-<div>
-  <a href="https://github.com/MarceloMarquesdeLima">
-  <img height="170em" src="https://github-readme-status.vercel.app/api?username=MarceloMarquesdeLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>   
-  
-  ##
-    
-<div>
-  <img height="170em" src="https://github-readme-status.vercel.app/api/top-langs/?username=MarceloMarquesdeLima&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
