@@ -19,9 +19,7 @@
   
   ##
     
-<div>
-  <img height="170em" src="https://github-readme-status.vercel.app/api/top-langs/?username=MarceloMarquesdeLima&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
   
 ##
   
