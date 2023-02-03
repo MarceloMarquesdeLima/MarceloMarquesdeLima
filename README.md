@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje tarbalho com FullStack com C#.NET e React | Angular
-- 🌱 Estudando Front-end
+- 🔭 Trabalhando com Back-end: C#.NET e NodeJS 
+- 🌱 Trabalhando com Front-end: React e Angular
 - 📫 Contate-me no email: marcelomarqueslima.dev@outlook.com
 <div>
   <a href="https://www.linkedin.com/in/marcelo-marques-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
