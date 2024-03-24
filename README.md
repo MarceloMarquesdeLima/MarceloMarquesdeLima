@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalhando com Back-end: C#.NET | PHP | NodeJS 
+- 🔭 Trabalhando com Back-end: C#.NET | PHP | NodeJS | Python | Delphi
 - 🌱 Trabalhando com Front-end: React | Angular
 - 📫 Banco de Dados: Postgres | Redis | SQL Server | MongoDB | MySQL
 <div>
