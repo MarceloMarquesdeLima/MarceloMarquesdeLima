@@ -1,10 +1,10 @@
-### Projeto MQS Marketplace 👋
+### Marcelo Marques de Lima 👋
 
 
 
 - 🔭 Trabalhando com Back-end: C#.NET e NodeJS 
 - 🌱 Trabalhando com Front-end: React e Angular
-- 📫 Banco de Dados: Postgres | Redis e MongoDB
+- 📫 Banco de Dados: Postgres | Redis | SQL Server e MongoDB
 <div>
   <a href="https://www.linkedin.com/in/marcelo-marques-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
